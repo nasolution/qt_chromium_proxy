@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ApplicationRoot.qml</file>
+        <file>BrowserDialog.qml</file>
+        <file>BrowserWindow.qml</file>
+        <file>DownloadView.qml</file>
+        <file>FindBar.qml</file>
+        <file>FullScreenNotification.qml</file>
+        <file>WebAuthDialog.qml</file>
+        <file>icons/3rdparty/qt_attribution.json</file>
+        <file>icons/go-next.png</file>
+        <file>icons/go-previous.png</file>
+        <file>icons/process-stop.png</file>
+        <file>icons/view-refresh.png</file>
+    </qresource>
+</RCC>

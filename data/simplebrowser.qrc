@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppLogoColor.png</file>
+        <file>ninja.png</file>
+        <file alias="dialog-error.png">3rdparty/dialog-error.png</file>
+        <file alias="edit-clear.png">3rdparty/edit-clear.png</file>
+        <file alias="go-bottom.png">3rdparty/go-bottom.png</file>
+        <file alias="go-next.png">3rdparty/go-next.png</file>
+        <file alias="go-previous.png">3rdparty/go-previous.png</file>
+        <file alias="process-stop.png">3rdparty/process-stop.png</file>
+        <file alias="text-html.png">3rdparty/text-html.png</file>
+        <file alias="view-refresh.png">3rdparty/view-refresh.png</file>
+        <file>icons/cal.png</file>
+        <file>icons/file.png</file>
+        <file>icons/go_back.png</file>
+        <file>icons/go_next.png</file>
+        <file>icons/go.png</file>
+        <file>icons/home.png</file>
+        <file>icons/ken.ico</file>
+        <file>icons/lock.png</file>
+        <file>icons/pdf.png</file>
+        <file>icons/png.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/saveBtn.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/update.png</file>
+        <file>icons/upLdBtn.png</file>
+        <file>qwebchannel.js</file>
+        <file>../icons/AA_logo.png</file>
+        <file>../icons/AA_mark.png</file>
+        <file>3rdparty/clear-cache-32.png</file>
+        <file>3rdparty/play-32.png</file>
+        <file>../icons/update_error.jpeg</file>
+        <file>../icons/version_outdated.png</file>
+        <file>../icons/version_updated.webp</file>
+        <file>../icons/padlock.png</file>
+        <file>../icons/flag_france_16.png</file>
+        <file>../icons/flag_uk_16.png</file>
+    </qresource>
+</RCC>
